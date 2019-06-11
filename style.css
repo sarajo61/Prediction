@@ -1,0 +1,18 @@
+#getCompany{
+    height: 5em;
+    width: 5em;
+    color: #fff;
+    background-color: #4CAF50;
+}
+input{
+    text-align: center;
+}
+#labels{
+    position: absolute;
+    top: 0;
+    left: -55px;
+}
+#labels label{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
